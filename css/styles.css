@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08 Jun 2016, 10:28:16 PM
+    Author     : glawless
+*/
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+  
+.vert {
+  vertical-align: middle;
+  width:100%;
+  padding-top:4%;
+}
+
+.container-red {
+    height: 80%;
+    color: #fff;
+    background: #f15060 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
+    }
+
+.header{
+    height: 80%;
+    color: #fff;
+    background: #43b02a url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
+    } 
+    
+.header .lead {
+  color:#eeeeee;
+  font-size:25px;
+}
+.header h1 {
+  font-size:100px;
+  -webkit-text-stroke: 1px rgba(0,0,0,0.1);
+  color:#431a6d;
+  color:#fff;
+  margin-left:-5px;
+  margin-bottom:5px;
+  font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.header .btn-lg {
+   font-size:28px;
+   border-color:#eeeeee;
+   padding:15px;
+   background-color:transparent;
+   color:#ffffff;
+}
+
+.header .btn-lg:hover {
+   background-color:#eeeeee;
+   color:#777777;
+}
+
+footer {
+  padding: 25px 0;
+}
+
+/* -- end custom css for Bootstrap 3.x --*/
